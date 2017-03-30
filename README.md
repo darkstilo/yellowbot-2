@@ -49,7 +49,7 @@
 
 > After the server is added, display a return message with the server data.
 
-** Return Messages **
+**Return Messages**
 
 [MESSAGE DISPLAYED FOR THE MASTER]
 
