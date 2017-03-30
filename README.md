@@ -13,7 +13,7 @@
 - [] Do not allow to register with user having special characters, only letters and numbers; [4]
 
 - [x] Send private message `return` with details of the registration. Containing the following details:
-(I.e.
+```
 💬 Group:
 🕐 Validity:
 
@@ -22,7 +22,7 @@
 🔑 Password:
 
 > Attach the button to delete the register at any time, at the user's option.
-(I.e.
+```
 
 - [x] Send to group `return messages`:
 
